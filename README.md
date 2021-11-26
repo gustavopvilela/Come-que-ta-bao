@@ -4,34 +4,41 @@ Esse código serve para o controle de uma lanchonete fictícia, desenvolvido par
 # Funcionalidades
 Abaixo estão listadas as funcionalidades que podem ser utilizadas com o sistema.
 
-## Cadastro de clientes
+## 01 - Cadastro de clientes
 * Aqui é possível cadastrar clientes novos.
 
-## Cadastro de produtos
+## 02 - Cadastro de produtos
 * Aqui é possível cadastrar todos os produtos novos que serão vendidos.
 
-## Lançamento de vendas
+## 03 - Lançamento de vendas
 * Aqui é possível cadastrar as vendas efetuadas;
 * O cadastro deverá conter os códigos da refeição vendida, do cliente, do produto e a data da venda.
 
-## Listar dados do cliente
+## 04 - Listar dados do cliente
 * Lista todos os dados de todos os clientes.
 
-## Listar dados dos produtos
+## 05 - Listar dados dos produtos
 * Lista os dados de todos os produtos cadastrados.
 
-## Listar todas as vendas cadastradas
+## 06 - Listar todas as vendas cadastradas
 * Lista todas as vendas cadastradas;
 * Lista o código da refeição, do cliente, do produto, a quantidade e a data da venda.
 
-## Emitir nota fiscal
+## 07 - Emitir nota fiscal
+* Mostra a nota fiscal da venda de um cliente específico;
+* É importante ressaltar que ela só será mostrada se todos os dados necessários estiverem preenchidos.
 
-## Limpar Banco de Dados
+## 08 - Limpar Banco de Dados
+* Estes códigos não juntam banco de dados com Java, então, aqui, somente elimina todos os dados dos vetores.
 
-## Relatório - Maior valor da refeição do cliente
+## 09 - Relatório: maior valor da refeição do cliente
+* Mostra qual foi a refeição mais cara do cliente.
 
-## Relatório - Menor valor da refeição do cliente
+## 10 - Relatório: menor valor da refeição do cliente
+* Mostra qual foi a refeição mais barata do cliente.
 
-## Relatório - Total das refeições do cliente
+## 11 - Relatório: total das refeições do cliente
+* Mostra todas as refeições que o cliente fez.
 
-## Saída
+## 12 - Saída
+* Ao digitar 0 (zero), o programa é encerrado.
