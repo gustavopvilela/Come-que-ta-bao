@@ -28,7 +28,7 @@ Abaixo estão listadas as funcionalidades que podem ser utilizadas com o sistema
 * Mostra a nota fiscal da venda de um cliente específico;
 * É importante ressaltar que ela só será mostrada se todos os dados necessários estiverem preenchidos.
 
-## 08 - Limpar Banco de Dados
+## 08 - Limpar banco de dados
 * Estes códigos não juntam banco de dados com Java, então, aqui, somente elimina todos os dados dos vetores.
 
 ## 09 - Relatório: maior valor da refeição do cliente
